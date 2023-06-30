@@ -1,2 +1,2 @@
 # js-calc
-Calculator written in JavaScript
+Calculator written in HTML, CSS, & JavaScript
